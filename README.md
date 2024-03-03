@@ -1,6 +1,6 @@
 # Machine Learning Methods and Applications
 
-This a undergraduate course repository of Machine Learning Methods and Applications at Eskisehir Technical University, Department of Statistics.
+This is an undergraduate course repository of Machine Learning Methods and Applications at Eskisehir Technical University, Department of Statistics.
 
 
 ## Books 📚
