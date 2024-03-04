@@ -11,4 +11,4 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 
 ## Contents 📂
 
-**Week 1.** Introduction to Machine Learning - Mar 4, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/blob/main/LectureNotes/Week1.pdf)
+**Week 1.** Introduction to Machine Learning - Mar 4, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Spring_MachineLearningMethodsandApplications/blob/main/Week1.pdf)
