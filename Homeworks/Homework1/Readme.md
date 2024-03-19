@@ -21,19 +21,19 @@ Task 7: Predicting the risk of heart disease: MLDataR::heartdisease
 
 You can find your assignment with your initial (For example, Ali Yılmaz's initial is AY).
 
-Task 1: EÇ, ÜS, FK
+EÇ, ÜS, FK -> Task 1 
 
-Task 2: KC, BK 
+KC, BK -> Task 2  
 
-Task 3: MK, BES, MG
+MK, BES, MG -> Task 3 
 
-Task 4: BÜ, SUO, YY
+BÜ, SUO, YY -> Task 4 
 
-Task 5: AS, BT, ZAS
+AS, BT, ZAS -> Task 5 
 
-Task 6: EY, BÇ
+EY, BÇ -> Task 6 
 
-Task 7: BK, SÖ, EK
+BK, SÖ, EK -> Task 7 
 
 
 
