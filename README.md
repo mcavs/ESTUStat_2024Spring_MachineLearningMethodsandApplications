@@ -12,3 +12,7 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 ## Contents 📂
 
 **Week 1.** Introduction to Machine Learning - Mar 4, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Spring_MachineLearningMethodsandApplications/blob/main/Week1.pdf)
+
+**Week 2.** Linear Regression Model - Mar 11, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Spring_MachineLearningMethodsandApplications/blob/main/Week2.pdf)
+
+**Week 3.** Logistic Regression Model - Mar 18, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Spring_MachineLearningMethodsandApplications/blob/main/Week3.pdf)
