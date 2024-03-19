@@ -19,7 +19,7 @@ Task 7: Predicting the risk of heart disease: MLDataR::heartdisease
 
 ## Assignments
 
-You can find your assignment with your initial (For example, Ali Yılmaz's initial is AY). The tasks are assigned to you randomly. 
+You can find your assignment with your initial (For example, Ali Yılmaz's initial is AY).
 
 Task 1: EÇ, ÜS, FK
 
