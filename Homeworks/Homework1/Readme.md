@@ -39,11 +39,11 @@ BK, SÖ, EK -> Task 7
 
 ## Instructions
 
-1. Give details of your task with the problem, features, and target. 
-2. Describe the dataset in your task
-3. Train a logistic regression model.
-4. Report the performance of the trained model using at least three metrics you learned in the lecture.
-5. Also report the performance of your model using the Brier score. 
+1. Give details of your task with the problem, features, and target (10 pts). 
+2. Describe the dataset in your task (10 pts).
+3. Train a logistic regression model (20 pts).
+4. Report the performance of the trained model using at least three metrics you learned in the lecture (30 pts).
+5. Also report the performance of your model using the Brier score (30 pts). 
 
 
 ## Grading
