@@ -2,7 +2,7 @@
 
 ## Tasks
 
-Task 1: Predicting the creditability of a customer: German credit dataset [https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsgermancsv)
+Task 1: Predicting the creditability of a customer: German credit dataset https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsgermancsv
 
 Task 2: Predicting the credit card application approval: https://archive.ics.uci.edu/dataset/143/statlog+australian+credit+approval
 
