@@ -48,7 +48,7 @@ BK, SÖ, EK -> Task 7
 
 ## Grading
 
-* Please prepare a report in PDF format by using Quarto or Jupyter Notebook (**no any other pubishing way or tool!**)  with R / Python consisting the points in the instructions in your task.
+* Please prepare a report in PDF format by using Markdown, Quarto or Jupyter Notebook (**no any other pubishing way or tool!**)  with R / Python consisting the points in the instructions in your task.
 * Send your report named with your initial until Mar 24, 23:59 to mustafacavus@eskisehir.edu.tr. **Late submissions are not be evaluated.**
 * All items in the instructions must be done with interpretated (Explain what you did and find). 
 * **The assignment will not be evaluated if any of the above items are not met.**
