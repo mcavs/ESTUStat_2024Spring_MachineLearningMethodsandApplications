@@ -33,7 +33,7 @@ AS, BT, ZAS -> Task 4
 
 EY, BÇ -> Task 2 
 
-BK, SÖ, EK -> Task 1 
+BeK, SÖ, EK -> Task 1 
 
 
 
