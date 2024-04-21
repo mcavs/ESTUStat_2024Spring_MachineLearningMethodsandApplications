@@ -41,10 +41,11 @@ BeK, SÖ, EK -> Task 1
 
 1. Give details of your task with the problem, features, and target (10 pts). 
 2. Describe the dataset in your task (10 pts).
-3. Train a logistic regression and a decision tree models. (20 pts).
-4. Report the performance of the trained models using necessary metrics (20 pts).
+3. Train a logistic regression and a decision tree models. (10 pts).
+4. Report the performance of the trained models using necessary metrics (10 pts).
 5. Check the overfitting problem in the models (20 pts).
-6. Improve the prediction performance of the decision tree model tuning hyperparameters (20 pts.) 
+6. Check and solve (if any) the imbalancedness problem (20 pts).
+7. Improve the prediction performance of the decision tree model tuning hyperparameters (20 pts) 
 
 
 ## Grading
