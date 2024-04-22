@@ -41,7 +41,7 @@ BeK, SÖ, EK -> Task 1
 
 1. Give details of your task with the problem, features, and target (10 pts). 
 2. Describe the dataset in your task (10 pts).
-3. Train a logistic regression and a decision tree models. (10 pts).
+3. Train a logistic regression and a decision tree model. (10 pts).
 4. Report the performance of the trained models using necessary metrics (10 pts).
 5. Check the overfitting problem in the models (20 pts).
 6. Check and solve (if any) the imbalancedness problem (20 pts).
@@ -50,7 +50,7 @@ BeK, SÖ, EK -> Task 1
 
 ## Grading
 
-* Please prepare a report in PDF format by using Markdown, Quarto or Jupyter Notebook (**no any other pubishing way or tool!**)  with R / Python consisting the points in the instructions in your task.
-* Send your report named with your initial until Apr 28, 23:59 to mustafacavus@eskisehir.edu.tr. **Late submissions are not be evaluated.**
-* All items in the instructions must be done with interpretated (Explain what you did and find). 
+* Please prepare a report in PDF format by using Markdown, Quarto, or Jupyter Notebook (**no any other publishing way or tool!**)  with R / Python consisting the points in the instructions in your task.
+* Send your report named with your initial until May 5, 23:59 to mustafacavus@eskisehir.edu.tr. **Late submissions are not to be evaluated.**
+* All items in the instructions must be done with interpretation (Explain what you did and find). 
 * **The assignment will not be evaluated if any of the above items are not met.**
