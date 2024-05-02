@@ -23,7 +23,7 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 **Week 5.** Supervised Learning: Decision Trees I - Apr 15, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/blob/main/Week5.pdf) -  :computer: [Applications](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/tree/main/Applications-W5) 
 
 
-**Week 6.** Supervised Learning: Decision Trees II - Apr 22, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/blob/main/Week7.pdf) -  :computer: [Applications](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/tree/main/Applications-W7)
+**Week 6.** Supervised Learning: Decision Trees II - Apr 22, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/blob/main/Week7%20(1).pdf) -  :computer: [Applications](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/tree/main/Applications-W7)
 
 
-**Week 7.** Ensemble Learning: Bagging Trees and Random Forests - Apr 29, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/blob/main/Week8.pdf) -  :computer: [Applications](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/tree/main/Applications-W8) 
+**Week 7.** Ensemble Learning: Bagging Trees and Random Forests - Apr 29, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/blob/main/Week8%20(1).pdf) -  :computer: [Applications](https://github.com/mcavs/ESTUStat_2023Spring_MachineLearningMethodsandApplications/tree/main/Applications-W8) 
