@@ -1,7 +1,7 @@
 #### Instructions:
   - The aim in the project is to train a superior classification model.
     - The all steps in an ML pipeline must be followed. 
-    - The all problems, we deal with, must be highlighted with solutions (e.g., imbalancedness, and etc.)
+    - The all problems, we deal with during the semester, must be highlighted with solutions (e.g., imbalancedness, and etc.)
   - The final project submissions are consist of a report and a presentation.
     - The report must include the all details of the steps with codes and comments.
     - Each group must prepare a repo in GitHub (or any other) that consists the all materials to reproduce the results in the project. 
