@@ -27,3 +27,5 @@
 #### Task 5 - Predicting the Energy Level of Songs (https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023) - Bora KANDEMİR & Batuhan ÇEVİK
   - Convert the variable "energy" to a binary variable (if energy > 50 is 1)
   - Target is whether a song is energtic (energy > 50)
+
+#### Task 6 - Banking Customer Churn Prediction () - Aslı SARI & Melek KELEŞ
