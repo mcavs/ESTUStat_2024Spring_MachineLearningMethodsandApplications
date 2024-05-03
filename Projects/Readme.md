@@ -12,6 +12,6 @@
 #### Task 4 - AIDS Virus Infection Prediction (https://www.kaggle.com/datasets/aadarshvelu/aids-virus-infection-prediction) - Ümmü SAVRAN & Ezo YEDİGÖL
   - Target is whether a patient is infected with AIDS.
 
-#### Task 5 - Predicting the Energy Level of Songs ([Perceived energy level of the song](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)) - Bora KANDEMİR & Batuhan ÇEVİK
+#### Task 5 - Predicting the Energy Level of Songs (https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023) - Bora KANDEMİR & Batuhan ÇEVİK
   - Convert the variable "energy" to a binary variable (if energy > 50 is 1)
   - Target is whether a song is energtic (energy > 50)
