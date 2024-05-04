@@ -29,3 +29,6 @@
   - Target is whether a song is energtic (energy > 50)
 
 #### Task 6 - Banking Customer Churn Prediction () - Aslı SARI & Melek KELEŞ
+
+#### Task 7 - Prediction of Obesity Status () - Berkay TAŞTEMEL & Simen ÖZSOY
+
