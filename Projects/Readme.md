@@ -44,7 +44,7 @@
   - The target is whether a product is reached on time.
   - Use at least 2K observations for training the ML model (if possible use all the observations).
 
-#### Task 10 - Hotel Reservation Cancelling Prediction (https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset) - Fehmican KORKUTER - Melih GÜNDÜZ
+#### Task 10 - Hotel Reservation Cancelling Prediction (https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset) - Fehmican KORKUTER & Melih GÜNDÜZ
   -  The target is whether a booking is canceled.
   -  Use at least 2K observations for training the ML model (if possible use all the observations).
 
